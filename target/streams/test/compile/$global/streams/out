@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0mD:\Usuarios\dairgave\Documents\Scala\red-book\src\test\scala\com\co\udea\testmodelling\TestFirstChapter.scala:2:12: object scalatest is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.scalatest.FunSuite[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Usuarios\dairgave\Documents\Scala\red-book\src\test\scala\com\co\udea\testmodelling\TestFirstChapter.scala:5:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test("CubeCalculator.cube") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Usuarios\dairgave\Documents\Scala\red-book\src\test\scala\com\co\udea\testmodelling\TestFirstChapter.scala:6:12: not found: value CubeCalculator[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(CubeCalculator.cube(3) === 27)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
